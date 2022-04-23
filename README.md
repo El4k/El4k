@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Emílio Lima</h1>
-<h3 align="center">I'm an aspiring back-end developer but always open to any area.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=el4k&label=Profile%20views&color=0e75b6&style=flat" alt="el4k" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el4k" alt="el4k" /></a> </p>
+<h1 align="center">Olá 👋, eu sou Emílio Lima</h1>
+<h3 align="center">Sou um aspirante a desenvolvendo backend mas estou aberto a todas as áreas.</h3>
 
 - 🌱 I’m currently learning **Java, I'm an aspiring back-end developer but always open to any area. I have knowledge about OOP and intermediate techniques in the language.**
 
-- 📫 How to reach me **emiliolima80@gmail.com**
+- 📫 Para me encontrar é só mandar um e-mail para: **emiliolima80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=el4k&show_icons=true&locale=en&layout=compact" alt="el4k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el4k&show_icons=true&locale=en" alt="el4k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el4k&" alt="el4k" /></p>
