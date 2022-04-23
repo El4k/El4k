@@ -20,5 +20,5 @@
 <h3 align="left">My most used languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=el4k&show_icons=true&locale=en&layout=compact" alt="el4k" /></p>
 
-<br><br><br><br>><br><br><br><h3 align="left">My GitHub stats:</h3>
+<br><br><br><br><br><br><br><h3 align="left">My GitHub stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el4k&show_icons=true&locale=en" alt="el4k" /></p>
