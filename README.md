@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Emílio Lima</h1>
 <h3 align="center">Sou um aspirante a desenvolvendo backend mas estou aberto a todas as áreas.</h3>
 
-- 🌱 I’m currently learning **Java, I'm an aspiring back-end developer but always open to any area. I have knowledge about OOP and intermediate techniques in the language.**
+- 🌱 Estou atualmente aprendendo e aprofundando em **Java, MySQL**
+
+- 💬 Pergunte-me sobre **POO, Java**
 
 - 📫 Para me encontrar é só mandar um e-mail para: **emiliolima80@gmail.com**
 
