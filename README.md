@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emílio araújo de lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emílio araújo de lima" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emílio-araújo-de-lima-13b195227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emílio-araújo-de-lima-13b195227/" height="30" width="40" /></a>
+<a href="https://instagram.com/emiliolima1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiliolima1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
