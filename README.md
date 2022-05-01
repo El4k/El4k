@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Emílio Lima</h1>
-<h3 align="center">Sou um aspirante a desenvolvendo backend mas estou aberto a todas as áreas.</h3>
+<h3 align="center">Sou um aspirante a desenvolvedor backend mas estou aberto a todas as áreas.</h3>
 
 - 🌱 Estou atualmente aprendendo e aprofundando em **Java, MySQL**
 
